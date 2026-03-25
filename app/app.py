@@ -284,6 +284,7 @@ st.markdown(
         border-radius: 12px;
         padding: 1.2rem;
         margin: 1rem 0;
+        color: #333;
     }
     </style>
     """,
